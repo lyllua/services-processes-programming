@@ -1,1 +1,4 @@
-# Programación de Servicios y Procesos - DAM
+# Services and Processes Programming - DAM
+- Multi-process Programming
+- Multithreading
+- Network Programming
